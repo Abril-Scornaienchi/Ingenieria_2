@@ -1,0 +1,3 @@
+C:/Users/Kevin/Desktop/Actividad_Evaluatoria_4/build/CMakeFiles/12_TutCMake4.dir
+C:/Users/Kevin/Desktop/Actividad_Evaluatoria_4/build/CMakeFiles/edit_cache.dir
+C:/Users/Kevin/Desktop/Actividad_Evaluatoria_4/build/CMakeFiles/rebuild_cache.dir
